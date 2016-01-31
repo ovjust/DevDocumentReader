@@ -1,0 +1,12 @@
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\bin\x86\Debug\WindowsFormsTestPdf.exe
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\bin\x86\Debug\WindowsFormsTestPdf.pdb
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdf.Form1.resources
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdf.Properties.Resources.resources
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdfDev.csproj.GenerateResource.Cache
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdf.exe.licenses
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdf.exe
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdf.pdb
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdfDev.csprojResolveAssemblyReference.cache
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdf.Form2Pdf.resources
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdf.Form3Rich.resources
+E:\my_program_middle\SSDocumentReader\WindowsFormsTestPdf\obj\x86\Debug\WindowsFormsTestPdf.Form4Rich2.resources

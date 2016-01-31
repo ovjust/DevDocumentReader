@@ -1,0 +1,11 @@
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\bin\x86\Debug\SSDocumentReader.exe
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\bin\x86\Debug\SSDocumentReader.pdb
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\obj\x86\Debug\SSDocumentReader.Form1.resources
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\obj\x86\Debug\SSDocumentReader.Properties.Resources.resources
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\obj\x86\Debug\SSDocumentReader.SingleControls.PdfViewerControl.resources
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\obj\x86\Debug\SSDocumentReader.SingleControls.RichViewerControl.resources
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\obj\x86\Debug\SSDocumentReader.csproj.GenerateResource.Cache
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\obj\x86\Debug\SSDocumentReader.exe.licenses
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\obj\x86\Debug\SSDocumentReader.exe
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\obj\x86\Debug\SSDocumentReader.pdb
+E:\my_program_middle\SSDocumentReader\SSDocumentReader\obj\x86\Debug\SSDocumentReader.MainControls.DirectoryViewControl.resources
